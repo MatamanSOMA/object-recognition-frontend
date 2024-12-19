@@ -1,6 +1,6 @@
 // frontend/src/App.js
 import React, { useState } from 'react';
-import Camera from './components/Camera';
+import Camera from './Camera';
 import './App.css';
 
 function App() {
