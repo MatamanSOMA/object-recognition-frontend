@@ -4,7 +4,7 @@ import Camera from './Camera';
 import './App.css';
 
 function App() {
-  const [audio, setAudio] = useState(null);
+  //const [audio, setAudio] = useState(null);
   const [objects, setObjects] = useState('');
 
   const handleCapture = async (imageSrc) => {
