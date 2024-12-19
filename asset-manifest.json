@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/object-recognition-frontend/static/css/main.f855e6bc.css",
+    "main.js": "/object-recognition-frontend/static/js/main.0e87fa15.js",
+    "static/js/156.5ae3dd5c.chunk.js": "/object-recognition-frontend/static/js/156.5ae3dd5c.chunk.js",
+    "index.html": "/object-recognition-frontend/index.html",
+    "main.f855e6bc.css.map": "/object-recognition-frontend/static/css/main.f855e6bc.css.map",
+    "main.0e87fa15.js.map": "/object-recognition-frontend/static/js/main.0e87fa15.js.map",
+    "156.5ae3dd5c.chunk.js.map": "/object-recognition-frontend/static/js/156.5ae3dd5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0e87fa15.js"
+  ]
+}
