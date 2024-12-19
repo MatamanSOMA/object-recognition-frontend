@@ -16,7 +16,7 @@ function App() {
         const base64data = reader.result.split(',')[1];
 
         // Appel à la Function Orchestratrice
-        const response = await fetch('https://objectRecognitionFunctionApp.azurewebsites.net/api/ProcessImage', {
+        const response = await fetch('https://objectrecognitionfunctionapp.azurewebsites.net/api/ProcessImage?', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ image: base64data })
